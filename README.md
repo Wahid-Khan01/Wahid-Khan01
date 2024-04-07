@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **Django Job Portal Web App**
 
-- 🌱 I’m currently learning **Prompt**
+- 🌱 I’m currently learning **AWS**
 
-- 👯 I’m going to get my **Prompt Certificate**
+- 👯 I’m **Prompt Certified**
 
 - 🤝 I’m currently exploring **AWS**
 
