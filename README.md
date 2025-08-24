@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wahid-Khan01](https://github.com/Wahid-Khan01)
 
-- 💬 Ask me about **Python, Golang, Django|Flask|Gin|Gorm|GoKit, AWS, Docker|Makefile, Development|Scraping, Javascript, HTML & CSS, Gen-AI, SQL & NO-SQL, even what i do not know so i can learn**
+- 💬 Ask me about **Python, Golang, Django | Flask | Gin | Gorm | GoKit, AWS, Docker | Makefile, Development | Scraping, Javascript, HTML & CSS, Gen-AI, SQL | NO-SQL and even what i do not know, so i can learn it**
 
 - 📫 How to reach me **wahidrr555@gmail.com**
 
